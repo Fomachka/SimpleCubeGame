@@ -1,2 +1,2 @@
 # SimpleCubeGame
-Dodge the obstacles in this simple game.
+Dodge the obstacles in this simple game
